@@ -1,0 +1,105 @@
+
+body {
+  background-image: url('party5.jpeg');
+  z-index: -100;
+}
+
+.Main {
+  text-align: center;
+
+
+}
+
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: black;
+
+}
+.Fields {
+margin: 10px 175px 10px 10px;
+}
+
+.generatedList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.textContainer {
+
+  font-size: 30px;
+  font-weight: 200;
+  margin-bottom: 50px;
+  text-align: center;
+  margin: 0px 50px 50px 50px;
+
+
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 400;
+  margin-bottom: 30px;
+  text-align: center;
+
+}
+
+form {
+
+}
+
+input {
+  padding: 5px 8px;
+    width: 200px;
+    height: 30px;
+    margin: 5px auto;
+    border-radius: 5px;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.39);
+}
+
+.Checkbox {
+  width: 15px;
+  height: 15px;
+}
+
+button {
+  cursor: pointer;
+  text-transform: uppercase;
+  color: #064658;
+
+}
+.guestList {
+  display: flex;
+  gap: 100px;
+}
+
+.dataInput {
+  margin-left: 200px;
+  margin-top: 60px;
+}
+
+.theGuestList {
+  margin-top: 0px;
+  padding: 0px;
+}
+
+.listItems {
+  font-weight: bold;
+  color: darkblue;
+}
