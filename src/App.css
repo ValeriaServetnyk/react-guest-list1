@@ -1,4 +1,3 @@
-
 body {
   background-image: url('party5.jpeg');
   z-index: -100;
@@ -6,10 +5,7 @@ body {
 
 .Main {
   text-align: center;
-
-
 }
-
 
 form {
   display: flex;
@@ -17,10 +13,9 @@ form {
   align-items: center;
   justify-content: center;
   color: black;
-
 }
 .Fields {
-margin: 10px 175px 10px 10px;
+  margin: 10px 175px 10px 10px;
 }
 
 .generatedList {
@@ -42,14 +37,11 @@ margin: 10px 175px 10px 10px;
   }
 }
 .textContainer {
-
   font-size: 30px;
   font-weight: 200;
   margin-bottom: 50px;
   text-align: center;
   margin: 0px 50px 50px 50px;
-
-
 }
 
 h1 {
@@ -57,20 +49,15 @@ h1 {
   font-weight: 400;
   margin-bottom: 30px;
   text-align: center;
-
-}
-
-form {
-
 }
 
 input {
   padding: 5px 8px;
-    width: 200px;
-    height: 30px;
-    margin: 5px auto;
-    border-radius: 5px;
-    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.39);
+  width: 200px;
+  height: 30px;
+  margin: 5px auto;
+  border-radius: 5px;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.39);
 }
 
 .Checkbox {
@@ -82,7 +69,6 @@ button {
   cursor: pointer;
   text-transform: uppercase;
   color: #064658;
-
 }
 .guestList {
   display: flex;
