@@ -99,7 +99,7 @@ export default function App() {
       </div>
       <form className="dataInput" onSubmit={handleSubmit}>
         <label className="Fields">
-          First Name
+          First name
           <input
             name="firstName"
             placeholder="Add your name"
@@ -110,7 +110,7 @@ export default function App() {
           />
         </label>
         <label className="Fields">
-          Last Name
+          Last name
           <input
             name="lastName"
             placeholder="Add your last name"
